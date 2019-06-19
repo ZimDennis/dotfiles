@@ -5,3 +5,5 @@
 * git-flow
   * git flow init -d
   * git config gitflow.prefix.versiontag v
+* vs-code
+  * Use extension 'Settings Sync' to restore all other extensions and settings
