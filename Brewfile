@@ -18,6 +18,7 @@ brew "pyenv"
 brew "zsh"
 brew "zlib"
 brew "xz"
+
 cask "insomnia"
 cask "slack"
 cask "skype"
@@ -30,3 +31,7 @@ cask "dropbox"
 cask "spotify"
 cask "brave-browser"
 cask "sequel-pro"
+
+brew "mas"
+mas "Xcode", id: 497799835
+mas "Numbers", id: 409203825
