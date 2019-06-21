@@ -16,6 +16,7 @@ brew "node"
 brew "pipenv"
 brew "pyenv"
 brew "zsh"
+brew "zsh-completions"
 brew "zlib"
 brew "xz"
 
@@ -31,6 +32,7 @@ cask "dropbox"
 cask "spotify"
 cask "brave-browser"
 cask "sequel-pro"
+cask "bettertouchtool"
 
 brew "mas"
 mas "Xcode", id: 497799835
