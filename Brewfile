@@ -32,7 +32,11 @@ cask "dropbox"
 cask "spotify"
 cask "brave-browser"
 cask "sequel-pro"
+cask "postico"
 cask "bettertouchtool"
+
+cask "adoptopenjdk8"
+cask "android-sdk"
 
 brew "mas"
 mas "Xcode", id: 497799835
