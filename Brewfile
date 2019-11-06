@@ -35,8 +35,12 @@ cask "sequel-pro"
 cask "postico"
 cask "bettertouchtool"
 
+brew "gradle"
 cask "adoptopenjdk8"
 cask "android-sdk"
+cask "android-studio"
+cask "android-file-transfer"
+cask "android-platform-tools"
 
 brew "mas"
 mas "Xcode", id: 497799835
