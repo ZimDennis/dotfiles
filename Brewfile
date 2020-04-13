@@ -34,6 +34,8 @@ cask "brave-browser"
 cask "sequel-pro"
 cask "postico"
 cask "bettertouchtool"
+cask "xquartz"
+cask "wine-stable"
 
 brew "gradle"
 cask "adoptopenjdk8"
