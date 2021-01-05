@@ -19,6 +19,9 @@ brew "zsh"
 brew "zsh-completions"
 brew "zlib"
 brew "xz"
+brew "docker"
+brew "docker-machine"
+
 
 cask "insomnia"
 cask "slack"
@@ -34,8 +37,7 @@ cask "brave-browser"
 cask "sequel-pro"
 cask "postico"
 cask "bettertouchtool"
-cask "xquartz"
-cask "wine-stable"
+cask "virtualbox"
 
 brew "gradle"
 cask "adoptopenjdk8"
@@ -47,3 +49,4 @@ cask "android-platform-tools"
 brew "mas"
 mas "Xcode", id: 497799835
 mas "Numbers", id: 409203825
+mas "Kindle", id: 405399194
