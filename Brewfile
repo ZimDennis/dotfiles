@@ -53,8 +53,5 @@ cask "virtualbox"
 cask "visual-studio-code"
 mas "ColorSlurp", id: 1287239339
 mas "Free Ruler", id: 1483172210
-mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Xcode", id: 497799835
